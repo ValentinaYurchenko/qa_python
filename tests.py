@@ -1,6 +1,7 @@
 import pytest
-from test_data import BOOKS_NAMES_AND_GENRE
 from main import BooksCollector
+from test_data import BOOKS_NAMES_AND_GENRE
+
 
 
 class TestBooksCollector:
